@@ -1,6 +1,6 @@
 import { Grid } from '@material-ui/core';
 //import Navbar from './components/Navbar';
-import PrimarySearchAppBar from "./material"
+import PrimarySearchAppBar from "./components/material"
 import Rightbar from './components/Rightbar';
 import Leftbar from './components/Leftbar';
 import Feeds from './components/Feeds';
